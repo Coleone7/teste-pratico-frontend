@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teste-pratico-frontend/static/css/main.cd872c4f.css",
+    "main.js": "/teste-pratico-frontend/static/js/main.44eeeece.js",
+    "index.html": "/teste-pratico-frontend/index.html",
+    "main.cd872c4f.css.map": "/teste-pratico-frontend/static/css/main.cd872c4f.css.map",
+    "main.44eeeece.js.map": "/teste-pratico-frontend/static/js/main.44eeeece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd872c4f.css",
+    "static/js/main.44eeeece.js"
+  ]
+}
