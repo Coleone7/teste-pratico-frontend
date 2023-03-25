@@ -1,0 +1,50 @@
+.flex{
+    display:flex;
+}
+
+.user-body{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--bg--post--name);
+    border-radius: 16px 16px 0 0;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.user-body ul li{
+    list-style: none;
+    color: white;
+}
+
+.ul-username{
+    justify-content: center;
+    padding-left:15px;
+}
+
+.username{
+    font-weight: bold;
+    font-size: 1em;
+    heigh: auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.username h2{
+    text-align: center;
+}
+
+.user-info{
+    width: auto;
+    display:flex;
+    flex-direction: column;
+    padding: 0px 30px 0px 0px;
+}
+
+.user-info li {
+    padding-right: 5px ;
+}
+
+.user-info li p{
+    font-size: 1em;
+}

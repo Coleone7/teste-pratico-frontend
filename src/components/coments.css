@@ -1,0 +1,22 @@
+.coment{
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 0 16px 16px 16px;
+    background-color: var(--bg--post--body);
+}
+
+.coment-name{
+    border-radius: 0 16px 0px 0px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+    background-color: var(--bg--coments--name) ;
+
+}
+
+.coment-body{
+    padding: 10px;
+    font-weight: 300;
+    text-align: justify;
+}

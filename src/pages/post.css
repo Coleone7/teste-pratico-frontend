@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&family=Roboto:wght@300;400;500;700&display=swap');
+
+:root {
+    --bg--main: #eeeeee;
+    --bg--post--name:#5C93AA;
+    --bg--post--body: #F0FCFE;
+    --bg--coments--name: #B7D9E2;
+    
+}
+
+*{
+    margin: 0;
+    paddin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.body-post{
+    padding: 0px 200px 0px 200px;
+    list-style: none;
+    background-color: var(--bg--main) ;
+    min-width:750px;
+}
+
+.post {
+    margin-top: 20px;
+}
+
+.post-section{
+    padding: 0px 15px 0px 15px;
+    border: 1px solid black;
+    border-top: none;
+    border-radius: 0 0 16px 16px;
+    background-color: var(--bg--post--body);
+}
+
+.body-post h1 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.post-section h3 {  /* título do post */
+    padding: 15px 0;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.post-section p { /* corpo do post */
+    text-align: justify;
+}
+
+.post-section span { /* botão de exibir comentário */
+    heigh: auto;
+    width: auto;
+    color: blue;
+}
+
+.coment-section{ /* campo onde irão aparecer os comentários*/
+    padding: 0px 0px 0px 35px;
+}
