@@ -1,6 +1,9 @@
 Olá! Seja bem-vindo a minha solução do CENÁRIO 1 – FRONT END, sugerido pela Alkabot.
+
 Nela, exibimos um post de um blog, em que, ao clicar em um post, os comentários associados são exibidos. 
+
 Todos os dados foram retirados dos serviços de listagem de post, comentários e usuários disponíveis na documentação do teste.
+
 A solução foi feita utilizando somente React. E a estilização com CSS foi feita para tornar a experiência mais agradável.
 
 A aplicação foi construida com o Node na versão v18.15.0 e npm v9.6.2
