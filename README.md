@@ -1,5 +1,5 @@
 Olá! Seja bem-vindo a minha solução do CENÁRIO 1 – FRONT END, sugerido pela Alkabot.
-
+(Segue o link de acesso para a página da aplicação : https://coleone7.github.io/teste-pratico-frontend/ )
 Nela, exibimos um post de um blog, em que, ao clicar em um post, os comentários associados são exibidos. 
 
 Todos os dados foram retirados dos serviços de listagem de post, comentários e usuários disponíveis na documentação do teste.
